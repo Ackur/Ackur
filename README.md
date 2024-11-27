@@ -1,16 +1,3 @@
-<style>
-  .image-box {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: fit-content;
-    padding: 2px;
-  }
-  .bg-white {
-    background: white;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Vasyl</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +6,6 @@
     href="https://www.w3.org/html/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -32,7 +18,6 @@
     href="https://www.w3schools.com/css/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -57,7 +42,6 @@
     href="https://www.typescriptlang.org/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -72,7 +56,6 @@
     href="https://vuejs.org/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -85,7 +68,6 @@
     href="https://reactjs.org/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -98,7 +80,6 @@
     href="https://angular.io"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -111,7 +92,6 @@
     href="https://nuxtjs.org/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
@@ -124,7 +104,6 @@
     href="https://nextjs.org/"
     target="_blank"
     rel="noreferrer"
-    class="image-box bg-white"
   >
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -139,7 +118,6 @@
     href="https://nodejs.org"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -148,7 +126,7 @@
       height="40"
     />
   </a>
-  <a href="https://hono.dev" target="_blank" rel="noreferrer" class="image-box">
+  <a href="https://hono.dev" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png"
       alt="hono"
@@ -160,7 +138,6 @@
     href="https://expressjs.com"
     target="_blank"
     rel="noreferrer"
-    class="image-box bg-white"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -175,7 +152,6 @@
     href="https://sass-lang.com"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -188,7 +164,6 @@
     href="https://tailwindcss.com/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -201,7 +176,6 @@
     href="https://getbootstrap.com"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
@@ -214,7 +188,6 @@
     href="https://vuetifyjs.com/en/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://bestofjs.org/logos/vuetify.svg"
@@ -229,7 +202,6 @@
     href="https://git-scm.com/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -242,7 +214,6 @@
     href="https://www.docker.com/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -255,7 +226,6 @@
     href="https://www.nginx.com"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -268,7 +238,6 @@
     href="https://postman.com"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -283,7 +252,6 @@
     href="https://www.figma.com/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -296,7 +264,6 @@
     href="https://penpot.app/"
     target="_blank"
     rel="noreferrer"
-    class="image-box bg-white"
   >
     <img
       src="https://www.svgrepo.com/download/432263/penpot.svg"
@@ -321,7 +288,6 @@
     href="https://www.sketch.com/"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
@@ -334,7 +300,6 @@
     href="https://www.photoshop.com/en"
     target="_blank"
     rel="noreferrer"
-    class="image-box"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
