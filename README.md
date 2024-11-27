@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vasyl</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<h3 align="left">Languages and Tools:</h3>
+
+## Skills:
+
+### Languages and Tools:
+
 <p align="left">
   <a
     href="https://www.w3.org/html/"
@@ -14,6 +18,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://www.w3schools.com/css/"
     target="_blank"
@@ -26,6 +31,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -38,6 +44,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://www.typescriptlang.org/"
     target="_blank"
@@ -64,6 +71,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://reactjs.org/"
     target="_blank"
@@ -76,6 +84,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://angular.io"
     target="_blank"
@@ -88,6 +97,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://nuxtjs.org/"
     target="_blank"
@@ -100,10 +110,12 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://nextjs.org/"
     target="_blank"
     rel="noreferrer"
+    style="background-color: white; display: inline-flex; align-items:center; justify-content: center; padding: 0 2px;"
   >
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -126,19 +138,21 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://hono.dev" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png"
+      src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.svg"
       alt="hono"
-      width="auto"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://expressjs.com"
     target="_blank"
     rel="noreferrer"
-  >
+    style="background-color: white; display: inline-flex; align-items:center; justify-content: center; padding: 0 2px;" >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
@@ -160,6 +174,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://tailwindcss.com/"
     target="_blank"
@@ -172,6 +187,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://getbootstrap.com"
     target="_blank"
@@ -184,6 +200,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://vuetifyjs.com/en/"
     target="_blank"
@@ -210,6 +227,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://www.docker.com/"
     target="_blank"
@@ -222,6 +240,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://www.nginx.com"
     target="_blank"
@@ -234,6 +253,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://postman.com"
     target="_blank"
@@ -260,10 +280,12 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://penpot.app/"
     target="_blank"
     rel="noreferrer"
+    style="background-color: white; display: inline-flex; align-items:center; justify-content: center; padding: 0 2px;"
   >
     <img
       src="https://www.svgrepo.com/download/432263/penpot.svg"
@@ -272,6 +294,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank"
@@ -284,6 +307,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://www.sketch.com/"
     target="_blank"
@@ -296,6 +320,7 @@
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://www.photoshop.com/en"
     target="_blank"
@@ -309,14 +334,18 @@
     />
   </a>
 </p>
-<p>
+
+## 📊 Github Stats
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ackur&show_icons=true&locale=en&layout=compact"
     alt="ackur"
   />
   &nbsp;
 </p>
-<h3 align="left">Connect with me:</h3>
+
+## Contact with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/vasyl-kremenok-944032b3" target="blank">
     <img
@@ -324,6 +353,16 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="www.linkedin.com/in/vasyl-kremenok-944032b3"
       height="30"
+      width="40"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:kremenokvv@gmail.com">
+    <img
+      align="center"
+      src="https://www.svgrepo.com/download/303161/gmail-icon-logo.svg"
+      alt="www.linkedin.com/in/vasyl-kremenok-944032b3"
+      height="40"
       width="40"
     />
   </a>
