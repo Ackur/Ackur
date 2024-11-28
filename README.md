@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasyl</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<p>
+<p align="center">
 Experienced Frontend developer with 5+ years of experience creating interactive and effective web interfaces. I am passionate about transforming designs into live web applications, developing progressive web applications, and implementing new technologies. I specialize in Vue.js and also know React and Angular. I have experience working with various tools and libraries for developing scalable and high-performance web applications. I have experience developing server logic and APIs. I am constantly improving and learning new technologies.
 </p>
 
@@ -110,9 +110,8 @@ Experienced Frontend developer with 5+ years of experience creating interactive 
     href="https://nextjs.org/"
     target="_blank"
     rel="noreferrer"
-    style="background-color: white; display: inline-flex; align-items:center; justify-content: center; padding: 0 2px;"
   ><img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="./assets/icons/nextjs-2.svg"
       alt="nextjs"
       title="Next.js"
       width="40"
@@ -145,8 +144,8 @@ Experienced Frontend developer with 5+ years of experience creating interactive 
     href="https://expressjs.com"
     target="_blank"
     rel="noreferrer"
-    style="background-color: white; display: inline-flex; align-items:center; justify-content: center; padding: 0 2px;" ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    ><img
+      src="./assets/icons/express-original-wordmark.svg"
       alt="express"
       title="Express js"
       width="40"
@@ -271,9 +270,8 @@ Experienced Frontend developer with 5+ years of experience creating interactive 
     href="https://penpot.app/"
     target="_blank"
     rel="noreferrer"
-    style="background-color: white; display: inline-flex; align-items:center; justify-content: center; padding: 0 2px;"
   ><img
-      src="https://www.svgrepo.com/download/432263/penpot.svg"
+      src="./assets/icons/penpot.svg"
       alt="penpot"
       title="Penpot"
       width="40"
