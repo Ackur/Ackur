@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vasyl</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
+<p>
+Experienced Frontend developer with 5+ years of experience creating interactive and effective web interfaces. I am passionate about transforming designs into live web applications, developing progressive web applications, and implementing new technologies. I specialize in Vue.js and also know React and Angular. I have experience working with various tools and libraries for developing scalable and high-performance web applications. I have experience developing server logic and APIs. I am constantly improving and learning new technologies.
+</p>
 
-## Skills:
 
-### Languages and Tools:
+## My Skills
 
-<p align="left"><a
+> Languages:
+<p><a
     href="https://www.w3.org/html/"
     target="_blank"
     rel="noreferrer"
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
+      title="HTML"
       width="40"
       height="40"
     /></a>
@@ -23,6 +27,7 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
+      title="CSS"
       width="40"
       height="40"
     /></a>
@@ -34,6 +39,7 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      title="JavaScript"
       width="40"
       height="40"
     /></a>
@@ -45,17 +51,21 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      title="TypeScript"
       width="40"
       height="40"
     /></a>
 </p>
-<p align="left"><a
+
+> Frameworks:
+<p><a
     href="https://vuejs.org/"
     target="_blank"
     rel="noreferrer"
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
+      title="Vue.js"
       width="40"
       height="40"
     /></a>
@@ -67,6 +77,7 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
+      title="React"
       width="40"
       height="40"
     /></a>
@@ -78,6 +89,7 @@
   ><img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
+      title="Angular"
       width="40"
       height="40"
     /></a>
@@ -89,6 +101,7 @@
   ><img
       src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
       alt="nuxtjs"
+      title="Nuxt.js"
       width="40"
       height="40"
     /></a>
@@ -101,17 +114,21 @@
   ><img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
       alt="nextjs"
+      title="Next.js"
       width="40"
       height="40"
     /></a>
 </p>
-<p align="left"><a
+
+> Backend:
+<p><a
     href="https://nodejs.org"
     target="_blank"
     rel="noreferrer"
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
+      title="Node.js"
       width="40"
       height="40"
     /></a>
@@ -119,6 +136,7 @@
   <a href="https://hono.dev" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.svg"
       alt="hono"
+      title="Hono js"
       width="40"
       height="40"
     /></a>
@@ -130,17 +148,21 @@
     style="background-color: white; display: inline-flex; align-items:center; justify-content: center; padding: 0 2px;" ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
+      title="Express js"
       width="40"
       height="40"
     /></a>
 </p>
-<p align="left"><a
+
+> Style metalanguages, CSS frameworks, component libraries:
+<p><a
     href="https://sass-lang.com"
     target="_blank"
     rel="noreferrer"
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
+      title="SASS"
       width="40"
       height="40"
     /></a>
@@ -152,6 +174,7 @@
   ><img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
+      title="Tailwind"
       width="40"
       height="40"
     /></a>
@@ -163,6 +186,7 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
       alt="bootstrap"
+      title="Bootstrap"
       width="40"
       height="40"
     /></a>
@@ -174,17 +198,21 @@
   ><img
       src="https://bestofjs.org/logos/vuetify.svg"
       alt="vuetify"
+      title="Vuetify"
       width="40"
       height="40"
     /></a>
 </p>
-<p align="left"><a
+
+> Infrastructure, developer and other tools:
+<p><a
     href="https://git-scm.com/"
     target="_blank"
     rel="noreferrer"
   ><img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
+      title="Git"
       width="40"
       height="40"
     /></a>
@@ -196,6 +224,7 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
+      title="Docker"
       width="40"
       height="40"
     /></a>
@@ -207,6 +236,7 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
+      title="Nginx"
       width="40"
       height="40"
     /></a>
@@ -218,17 +248,21 @@
   ><img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
+      title="Postman"
       width="40"
       height="40"
     /></a>
 </p>
-<p align="left"><a
+
+> Interface development and prototyping tools:
+<p><a
     href="https://www.figma.com/"
     target="_blank"
     rel="noreferrer"
   ><img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
+      title="Figma"
       width="40"
       height="40"
     /></a>
@@ -241,6 +275,7 @@
   ><img
       src="https://www.svgrepo.com/download/432263/penpot.svg"
       alt="penpot"
+      title="Penpot"
       width="40"
       height="40"
     /></a>
@@ -252,6 +287,7 @@
   ><img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
       alt="illustrator"
+      title="illustrator"
       width="40"
       height="40"
     /></a>
@@ -263,6 +299,7 @@
   ><img
       src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
       alt="sketch"
+      title="Sketch"
       width="40"
       height="40"
     /></a>
@@ -274,12 +311,13 @@
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
       alt="photoshop"
+      title="Photoshop"
       width="40"
       height="40"
     /></a>
 </p>
 
-## 📊 Github Stats
+## Github Stats
 <p align="center"><img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ackur&show_icons=true&locale=en&layout=compact"
     alt="ackur"
@@ -287,12 +325,13 @@
   &nbsp;
 </p>
 
-## Contact with me:
+## Contact with me
 
-<p align="left"><a href="https://www.linkedin.com/in/vasyl-kremenok-944032b3" target="blank"><img
+<p><a href="https://www.linkedin.com/in/vasyl-kremenok-944032b3" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="www.linkedin.com/in/vasyl-kremenok-944032b3"
+      alt="linkedin"
+      title="Linkedin"
       height="30"
       width="40"
     /></a>
@@ -300,7 +339,8 @@
   <a href="mailto:kremenokvv@gmail.com"><img
       align="center"
       src="https://www.svgrepo.com/download/303161/gmail-icon-logo.svg"
-      alt="www.linkedin.com/in/vasyl-kremenok-944032b3"
+      alt="gmail"
+      title="Gmail"
       height="40"
       width="40"
     /></a>
